@@ -5,8 +5,8 @@ My skills and knowledges reach areas of backend programming, frontend programmin
 
 ### FIND MORE AT 
 
-- Personal blog and more at [Blackbox of Dreams](https://ottaviovaz.github.io/Blackbox-of-Dreams)
-- Discord community at [The Garden of Dreams](https://discord.gg/rRnUBs5PaC)
+- [Personal Blog](https://ottaviovaz.github.io/Blackbox-of-Dreams)
+- [Discord Community](https://discord.gg/rRnUBs5PaC)
 
 ##
 
